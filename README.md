@@ -1,4 +1,4 @@
-important notice: connect the internet then run the program.
+main thing : connect the internet then run the program.
 
 1.step: create one folder on the desktop and extract all the files.
 2.step: open the folder and open the command promt and type 'code .', it will goes into vs-code
